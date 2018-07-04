@@ -7,5 +7,5 @@ def reverse_each_word(sen)
   return array_of_sen.join(" ")
 end
 
-puts reverse_each_word("Hello there, and how are you?")
+#puts reverse_each_word("Hello there, and how are you?")
 #=> "olleH ,ereht dna woh era ?uoy"
